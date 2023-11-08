@@ -1,6 +1,7 @@
 from ting_file_management.priority_queue import PriorityQueue
 import pytest
 
+
 def test_basic_priority_queueing():
     data_input = [
         {"data": "test1.txt", "qtd_linhas": 9},
